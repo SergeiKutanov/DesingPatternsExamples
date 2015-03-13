@@ -6,6 +6,6 @@ package strategy_pattern.MeansOfTransportation.movementAlgorithms;
 public class SupermanMovement implements MovementAlgorithm {
     @Override
     public void go() {
-        System.out.println("I'm flying as Superman super flying speed");
+        System.out.println("I'm flying at Superman super flying speed");
     }
 }
